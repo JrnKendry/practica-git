@@ -8,4 +8,6 @@ Proceso Calculadora
 	Leer ValorB;
 	Resultado<- ValorA * ValorB;
 	Escribir "El resultado de la multiplicacion es :",Resultado;
+	Resultado<- ValorA - ValorB;
+	Escribir "El resultado de la resta es :",Resultado;
 FinProceso
